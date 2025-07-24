@@ -22,6 +22,26 @@ Proiectul se poate compila și rula prin executarea scriptului `run.bat` (destin
 - Vizualizarea arborelui și operațiile disponibile
 - Exemple de creare, modificare și ștergere de noduri
 - Demonstrarea funcționalității de sortare și căutare
+<img width="1918" height="1013" alt="Screenshot 2024-07-12 124338" src="https://github.com/user-attachments/assets/5968e3fd-0462-4926-988c-1d55618bf136" />
+
+<img width="1918" height="1015" alt="Screenshot 2024-07-12 124425" src="https://github.com/user-attachments/assets/36a8507f-5293-4a1b-8754-9743c0b06203" />
+
+<img width="1918" height="1011" alt="Screenshot 2024-07-12 124446" src="https://github.com/user-attachments/assets/00dfdca2-76f0-46b6-8946-f38879fe60a3" />
+
+<img width="1916" height="1017" alt="Screenshot 2024-07-12 124509" src="https://github.com/user-attachments/assets/0ad66900-8648-46cf-ab9b-42d73449c9c0" />
+
+<img width="1918" height="1013" alt="Screenshot 2024-07-12 124527" src="https://github.com/user-attachments/assets/fb4b5b8c-3e72-4276-9e9c-ac9066e24931" />
+
+<img width="1918" height="1017" alt="Screenshot 2024-07-12 124546" src="https://github.com/user-attachments/assets/1720cb0a-dd74-4ee2-8987-2828dee783f5" />
+
+<img width="1918" height="1020" alt="Screenshot 2024-07-12 124635" src="https://github.com/user-attachments/assets/c216379e-e5c8-41d9-92b5-85e34ed076bf" />
+
+<img width="1918" height="1012" alt="Screenshot 2024-07-12 124725" src="https://github.com/user-attachments/assets/c89c125b-2c0d-49e6-a2aa-334ac38e2a7b" />
+
+<img width="1918" height="1012" alt="Screenshot 2024-07-12 124805" src="https://github.com/user-attachments/assets/5c8a0bfa-6389-4ea2-b973-89e624016597" />
+
+<img width="1918" height="1015" alt="Screenshot 2024-07-12 124744" src="https://github.com/user-attachments/assets/37da07c0-789f-416c-8b5a-d079342ecc00" />
+
 
 ## Descriere generală
 Aplicația "Arbore" este un instrument educațional și practic pentru lucrul cu structuri de date de tip arbore. Programul permite utilizatorilor să creeze, să vizualizeze și să manipuleze arbori, oferind o interfață grafică intuitivă pentru înțelegerea acestor structuri de date fundamentale în informatică.
